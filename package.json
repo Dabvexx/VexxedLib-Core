@@ -3,19 +3,18 @@
     "version": "1.0.0",
     "displayName": "VexxedLib Core",
     "description": "This is a package filled with functions I find useful in my daily programming.",
-    "unity": "2021.3.16",
-    "unityRelease": "f1",
+    "unity": "2021.3",
     "keywords": [
         "Vexxedlib",
         "Library",
         "DaVexx",
         "DabVexx"
       ],
-      "repository": {
+    "repository": {
         "type": "git",
         "url": "https://github.com/Dabvexx/Vexxedlib-Core"
       },
-      "author": {
+    "author": {
         "name": "Alex Woods",
         "email": "AlexanderJWoods23@gmail.com"
       }
