@@ -1,6 +1,6 @@
 using System.Timers;
 
-namespace VexxLib.Utils.Timers
+namespace VexxedLib.Utils.Timers
 {
     public enum TimerState
     {
