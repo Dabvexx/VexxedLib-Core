@@ -6,9 +6,9 @@ using UnityEngine;
 /// Credit to MonoFlauta for many of these extensions
 /// https://monoflauta.com/2021/07/27/11-useful-unity-c-extension-methods/
 /// </summary>
-namespace VexxLibed.Extensions
+namespace VexxedLib.Extensions
 {
-    public static class ExtensionMethods
+    public static class VexxedExtensionMethods
     {
         #region Public Methods
         // Public Methods.
