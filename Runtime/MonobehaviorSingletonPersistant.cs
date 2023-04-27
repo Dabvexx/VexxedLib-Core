@@ -17,6 +17,7 @@ namespace VexxedLib.Core
             if (Instance == null)
             {
                 Instance = this as T;
+                DontDestroyOnLoad(gameObject);
             }
             else Destroy(gameObject);
         }
